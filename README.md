@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sandip</h1>
-<h3 align="center">I love building creative and useful websites 🚀</h3>
+<h1 align="center">Hi 👋, I'm Sandip Gurung</h1>
+<h3 align="center">Simple, just enjoy what you're doing. That's all...</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandipeyy&label=Profile%20views&color=0e75b6&style=flat" alt="sandipeyy" />
@@ -13,7 +13,7 @@
 - 🕵️‍♂️ **[NepoScrape](https://github.com/Sandipeyy/NepoScrape)** – Simple and powerful web scraper
 
 ---
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/Sandipeyy/Sandipeyy/blob/master/dino.gif)
   ---
 
 ### 🏆 GitHub Trophies
