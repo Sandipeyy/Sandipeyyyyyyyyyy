@@ -13,20 +13,8 @@
 - 🕵️‍♂️ **[NepoScrape](https://github.com/Sandipeyy/NepoScrape)** – Simple and powerful web scraper
 
 ---
-
-### 🌐 Connect with me
-
-- 💬 Discord: `s3npaiffx`
-
----
-
-### 🧰 Tools & Tech I Use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,github,vercel" />
-</p>
-
----
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+  ---
 
 ### 🏆 GitHub Trophies
 
