@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=sandipeyy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/stars/Sandipeyy?style=social" />
   <img src="https://img.shields.io/github/followers/Sandipeyy?style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sandipeyy" />
 </p>
 
 ---
@@ -19,12 +18,6 @@
 
 - 🎬 **[NepoFlix](https://github.com/Sandipeyy/NepoFlix)** – A free movie,TV show and anime streaming platform  
 - 🕵️‍♂️ **[NepoScrape](https://github.com/Sandipeyy/NepoScrape)** – Simple and powerful web scraper
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sandipeyy/Sandipeyy/main/dino.gif" alt="dino" />
-</p>
 
 ---
 
