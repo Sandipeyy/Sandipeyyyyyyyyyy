@@ -17,15 +17,8 @@
 
 ### 🎯 My Projects
 
-- 🎬 **[NepoFlix](https://github.com/Sandipeyy/NepoFlix)** – A free movie & TV show streaming platform  
+- 🎬 **[NepoFlix](https://github.com/Sandipeyy/NepoFlix)** – A free movie,TV show and anime streaming platform  
 - 🕵️‍♂️ **[NepoScrape](https://github.com/Sandipeyy/NepoScrape)** – Simple and powerful web scraper
-
----
-
-### 🚀 What I'm Working On
-
-- ⚡ **NepoElevate** – AI-powered Resume Analyzer with smart feedback  
-- 🎥 **NepoFlix v2** – Advanced version with anime support and smart streaming
 
 ---
 
@@ -37,9 +30,7 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandipeyy&theme=onedark&column=6&margin-w=10&margin-h=15" />
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=Sandipeyy&theme=dracula&no-frame=true&row=1)
 
 ---
 
@@ -60,6 +51,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipeyy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sandipeyy&theme=react-dark)
 
 ---
 
