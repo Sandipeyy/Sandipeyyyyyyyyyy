@@ -15,10 +15,10 @@
 
 ---
 
-## Projects & Creations 👨‍💻
+## Projects👨‍💻
 
 ### <img src="https://sandip.is-not-a.dev/favicon.ico" width="16px" />  Portfolio
-[**Portfolio**](https://sandip.is-not-a.dev) A showcase of my work as a Full Stack Developer and Graphic Designer. Explore projects ranging from web apps and AI tools to logos, banners, and creative visuals. I combine coding skills with design creativity to bring ideas to life.
+[**Portfolio**](https://sandip.is-not-a.dev) Showcasing my work as a Full Stack Developer and Graphic Designer. From web apps and AI tools to creative visuals, I blend code and design to craft meaningful digital experiences.
 
 ### <img src="https://nepoflix.micorp.pro/logo.png" width="16px" /> NepoFlix
 [**NepoFlix**](https://nepoflix.micorp.pro) is a streaming content aggregator for movies, TV shows, and anime. It organizes content from multiple sources, making it easier to discover and watch your favorite shows.
@@ -26,18 +26,17 @@
 ### <img src="https://github.com/Sandipeyy/NepoScrape/blob/main/public/favicon.svg" width="16px" /> NepoScrape
 [**NepoScrape**](https://neposcrape.vercel.app) is a free AI-powered web scraping platform to extract, analyze, and transform web data efficiently. Built with modern technologies, it provides an intuitive interface for web intelligence gathering.
 
+### <img src="https://raw.githubusercontent.com/Sandipeyy/NepoTuneAPI/main/assets/logo.png" width="16px" /> NepoTuneAPI
+[**NepoTuneAPI**](https://nepotuneapi.vercel.app) A powerful and free API for accessing music data, built to support app. It delivers fast, reliable, and developer-friendly endpoints for songs, albums, artists, and playlists.
+
+### <img src="https://github.com/Sandipeyy/NepoReadme/blob/main/public/logo.jpg" width="16px" /> NepoReadme
+[**NepoReadme**](https://neporeadme.vercel.app) A simple and open-source tool to create beautiful GitHub profile READMEs without any setup. Users can design, customize, and deploy instantly.
+
 <p align="right">.. working on a few more projects 😉</p>
 
 ---
 
 ## Tech Stack 💻
-
-#### Design / Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
