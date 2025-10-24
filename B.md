@@ -35,56 +35,14 @@
 
 ---
 
-<p align="center">
-  <a href="https://sandip.is-not-a.dev" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Sandipeyy" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/sandipeyy_" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:977senpai@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
----
-
-
-## 🚀 Recent Projects
-
+### 🔎 Discord Status
 <div align="center">
-
-### [NepoFlix](https://github.com/RubyDarlinggg/nepo-flix-streaming-app)
-<img alt="NepoFlix" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<p>🎬 Movie, TV, and Anime streaming web app with modern UI and fully responsive design.</p>
-
-### [InstaEclipse](https://github.com/ReSo7200/InstaEclipse)
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<p>📸 Instagram downloader tool (videos, reels, stories, and profile pictures).</p>
-
-### [Music Social Toolkit](https://github.com/YourUsername/Music-Social-Toolkit)
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="Tailwind" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<p>🎵 All-in-one music & social platform: streaming, sharing, and social interaction.</p>
-
+  <a href="https://discord.com/users/1348121364833243270">
+  <img src="https://lanyard.cnrad.dev/api/1348121364833243270?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Status" />
+  </a>
 </div>
 
 ---
+
+---
+
